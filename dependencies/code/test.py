@@ -24,7 +24,7 @@ os.chdir("/var/sandbox/sandbox-python")
 lib.DifySeccomp(65537, 1001, 1)
 
 # declare main function here
-# 测试代码可以写在此处
+# write the code for testing here
 
 import pandas as pd
 
